@@ -30,6 +30,6 @@ int main(int argc, char const *argv[])
         }
         
     }
-    cout<<"The smallest number is"<<smallest;
+    cout<<"The smallest number is "<<smallest<<endl;
     return 0;
 }
